@@ -34,6 +34,10 @@ live : https://web-production-2873d.up.railway.app/
 - **Frontend:** Bootstrap, JavaScript 
 - **ORM:** Django ORM
 
+## 📫 Contact
+
+Developed by Growdea Technologies Pvt. Ltd.
+For collaborations, email:  am@growdeatech.com
 
 ---
 
